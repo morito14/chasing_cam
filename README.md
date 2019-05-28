@@ -1,2 +1,2 @@
 # chasing_cam
-detect and chase face
+Ros-node that detect and chase face using webcam and servo motor through raspberry-pi.
