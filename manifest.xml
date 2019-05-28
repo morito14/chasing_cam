@@ -1,0 +1,14 @@
+<package>
+  <description brief="ros_okkakecam">
+
+     ros_okkakecam
+
+  </description>
+  <author>morito</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_okkakecam</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
